@@ -36,5 +36,5 @@ I am a B.Tech IT student (Batch of 2027) and a **Licensed Pharmacist**. I bridge
 </picture>
 
 ---
-<p align="center">"Consistency is the key to excellence."</p>## Hi there 👋
+<p align="center">"Consistency is the key to excellence."</p>
 
