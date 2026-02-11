@@ -5,7 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a B.Tech IT student (Batch of 2027) and a **Licensed Pharmacist**. I bridge the gap between healthcare expertise and modern full-stack engineering. Currently, I am focused on mastering the **MERN Stack** and building intelligent systems with **AI/ML**.
+I am a B.Tech IT student and a **Licensed Pharmacist**, bridging the gap between healthcare expertise and modern full-stack engineering. I am focused on mastering the **MERN Stack** and building intelligent systems with **AI/ML**.
 
 - 🚀 **Goals:** Securing a high-impact engineering role and mastering System Design.
 - 🛠️ **Current Project:** Building **MedIt**, a hyperlocal digital healthcare ecosystem.
@@ -24,8 +24,8 @@ I am a B.Tech IT student (Batch of 2027) and a **Licensed Pharmacist**. I bridge
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratyushGupta77&show_icons=true&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushGupta77&layout=compact&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PratyushGupta77&show_icons=true&theme=dark&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushGupta77&layout=compact&theme=dark&count_private=true" height="150" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -35,4 +35,3 @@ I am a B.Tech IT student (Batch of 2027) and a **Licensed Pharmacist**. I bridge
 
 ---
 <p align="center">"Consistency is the key to excellence."</p>
-
