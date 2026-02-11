@@ -24,8 +24,8 @@ I am a B.Tech IT student (Batch of 2027) and a **Licensed Pharmacist**. I bridge
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratyushGupta77&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushGupta77&layout=compact&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PratyushGupta77&show_icons=true&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushGupta77&layout=compact&theme=dark&hide_border=false" height="150" />
 </p>
 
 ### 🐍 Contribution Snake
