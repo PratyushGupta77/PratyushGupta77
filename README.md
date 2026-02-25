@@ -32,13 +32,10 @@ I am a B.Tech IT student and a **Licensed Pharmacist**, creating a unique bridge
 </p>
 
 ---
-
 ### 📊 GitHub Analysis
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratyushGupta77&show_icons=true&theme=dark&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushGupta77&layout=compact&theme=dark&count_private=true" height="150" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PratyushGupta77&show_icons=true&theme=radical&rank_icon=github" alt="Pratyush's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushGupta77&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="
+![Snake animation](https://github.com/PratyushGupta77/PratyushGupta77/blob/output/github-contribution-grid-snake.svg)
